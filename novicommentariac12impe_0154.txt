@@ -1,0 +1,39 @@
+92 DE VSV ALGORITH. INFINIT.
+
+num tanto magis ad curuam accedere ‚ quo minor
+linea pro vnitate accipitur ‚ aut quod eodem recidit,
+quo maior est vnit-„itum numerus r, ac denique ve·
+ram curuae ideam slstcre ‚ si numerus vnitatum ceu
+vere infinitus consideretur.
+
+Iam igitur ‚ ad huius praecepti normam, nu-
+meros n et r pro infinitis vel saltem vaide magnis
+habebimus, atque fic poterimus absque errore ‚ sal-
+tem sensibili ‚ aequationem paragraphi tertii vel se·
+cundi 21:⁷22,ss mutare in hanc alteram ,2⁴:172ss
+haec cum ita sint , methodum monstrabo, qua po-
+sterior aequatio xzs—s, immediate et facili calculo
+infinitesimali inueniri poffit⁴
+
+ 
+
+§. 6. Cum numerus r decrescit elemento cir,
+istud decrementum cadit in numerum schedularum
+‘vel folmarum, quarum numerus est r—2x‚ vel
+coniujatarum ‚ quarum numerus est 21: in priori
+casu numerus parium nullum decrementum capit
+fitque dxzoz in altero casu totum decrementum
+dr vnice cadit in diminutionem numeri x fitque
+adeo dxzdr3 igitur habemus r—2x casus qui cle-
+mentum dx faciunt :0 et nx casus, qui idem
+elementum dx faciunt ztir, vnde, per regulam
+fundamentalem artis conieci-andr, fit verus valor
+
+elementi dx z: ² ’ζὼς hinc ‘if :t Τάνς hacc autem
+
+‘vltima aequatio ita est integranda, cum additione
+constantis, vt posito ,νε-τη fiat r22n5 vnde talis
+oritur
+
+ 
+

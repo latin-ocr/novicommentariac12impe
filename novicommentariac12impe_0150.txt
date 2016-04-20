@@ -1,0 +1,36 @@
+88 DE VSV ALGORITH. INFINIT.
+
+ficiendum , ss' modo quaeuis variatio ceu infinite
+parua considerari possit, quod ficri potest, donec nu·-
+merus schedularum in vrna residuarum valde ma-
+gnus est: tunc enim vnitas pro elemento infinite
+veluti paruo haberi potest3 eadem innititur hypo·
+thefi arithmetica infinitorum , qua mathematici an-
+te detectum calculum differenti-alem et integralem
+vsi sunt. Verum sentio argumentum istud in ab·
+strac‘lo propositum vlteriori opus habere explicatio-
+ne; igitur ad rem ipsam propero exemplis illu-
+strandam5 primo autem analyfi vtar vulgari, inde-
+que„ ad vsum algorithmi infiniterimalis descendam.
+
+ξ. 2. Problema: Sint schedulae numero pari
+in vrna repositae earumque binae singulae eodem
+numero notatae ita vt altera alterius sit socia am-
+baeque vnum constituant pai-3 diuersa autem paria
+diuersis numeris notata putentur, vt sic singula pa-
+ria a se inuicem dignosci possint3 tum sorte extra-
+hantur ex vrna schedulae vna post alteram quo
+sac‘to ‚ quaeritur ‚ dato numero schedularum in vr-
+na residuarum ‚ quomam probabiliter in eo futura
+sint paria integra simulque quot schedulae sua com·
+pari aut socia orbae remansurae.
+
+Solutio. Sit numerus omnium schedularum
+:3271 omniumque adeo parium 2:77, post saetam
+autem repetitamque extrae'tionem numerus schedula-
+rum in vrna superstitum :r3 tum ponatur nurne-
+rus parium superstitum :x adeoque numerus sche-
+dularum socia sua priuatum :r-2x. His ita con-
+
+stitutis
+
